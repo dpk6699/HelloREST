@@ -1,4 +1,4 @@
-package net.javacode.ws.HelloREST;
+package net.javacode.ws;
 
 import org.springframework.boot.SpringApplication;
 import org.springframework.boot.autoconfigure.SpringBootApplication;
